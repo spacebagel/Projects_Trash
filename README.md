@@ -1,4 +1,6 @@
 # 📃 Projects List
+### Here you can see the projects that I developed during my studies in the period from 2019 to 2023 with minor changes. 👋👽
+
 ## ♟️ Chess App (WPF, C#, MSSQL)
 <p>An application for managing chess tournament data.</p>
 <p>Repository: https://github.com/spacebagel/ChessApp</p>
