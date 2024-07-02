@@ -11,4 +11,10 @@
 <p>Small API for generating random user data.</p>
 <p>Repository: https://github.com/spacebagel/RandomDudeAPI</p>
 
-![изображение](https://github.com/spacebagel/Projects_Trash/assets/165411846/4f9391b2-c40d-4828-bd2e-95bb747b944c)
+![GetRandomAPIResultScreen](https://github.com/spacebagel/Projects_Trash/assets/165411846/4f9391b2-c40d-4828-bd2e-95bb747b944c)
+
+## 🦩 Simple cute pink window
+<p>Window without additional functionality.</p>
+<p>Repository: https://github.com/spacebagel/PINK_window</p>
+
+![PinkWindowScreen](https://github.com/spacebagel/Projects_Trash/assets/165411846/34a5f9c9-e976-4e4d-9200-cf49210c2f2d)
