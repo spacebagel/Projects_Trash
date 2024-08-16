@@ -35,3 +35,10 @@ Rework of my first WPF project (2020).
 Repository: https://github.com/spacebagel/FlatDesign
 
 ![FishingDeliveryNotesScreen](https://github.com/user-attachments/assets/c264dd8e-8426-4019-abd7-b0f00c40b315)
+
+## 🎞️ Random GIF Finder (C#, WPF)
+The program fo search and download random GIFs. By using the GIPHY API.
+
+Repository: https://github.com/spacebagel/RandomGifFinder/tree/master
+
+![RandomGIFFinderScreen](https://github.com/user-attachments/assets/f9c6cee4-096f-4048-873a-3bba131a84f4)
